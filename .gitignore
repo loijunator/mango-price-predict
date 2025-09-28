@@ -1,1 +1,5 @@
 /venv/
+/.ipynb_checkpoints/
+/extraa/
+ist_conversion.ipynb
+.cache.sqlite

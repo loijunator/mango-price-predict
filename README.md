@@ -3,9 +3,9 @@ This project aims to predict mango prices (kinda) using weather data from region
 
 Checklist:
 
-- [ ]  Data - use conventional sources + chatgpt:
-    - [ ] Weather data for as many regions as possible:
-        - [ ] ratnagiri
+- [x]  Data - use conventional sources + chatgpt:
+    - [x] Weather data for as many regions as possible:
+        - [x] ratnagiri
         - [ ] *add more*
     - [ ] Ideal weather conditions for normal growth of mangoes
     - [ ] Adverse weather conditions of those regions + their occurrences 
