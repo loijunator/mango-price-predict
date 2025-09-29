@@ -1,13 +1,16 @@
-This project aims to predict mango prices (kinda) using weather data from region/s producing mangoes and then make predictions on the life and storage durations of those mangoes.
-- this data will be useful to people or entities that aim to hedge positions in the mango market and make bets agains mango prices in the long or short term
+**Aim of this project**: Use weather data to predict mango production.
+*Currently only working for mango production in Ratnagiri District.*
 
-Checklist:
+## Weather variables used:
+1. Temperature - Max, Min, Mean
+2. Rainfall - Total Rainfall in a day 
+3. Heavy Rain Days - Days with more than 50mm rainfall
 
-- [x]  Data - use conventional sources + chatgpt:
-    - [x] Weather data for as many regions as possible:
-        - [x] ratnagiri
-        - [ ] *add more*
-    - [ ] Ideal weather conditions for normal growth of mangoes
-    - [ ] Adverse weather conditions of those regions + their occurrences 
-    - [ ] Storage conditions for mangoes
-- [ ]  Model: more will be decided later 
+*Planned Addition of features*:
+Hourly Data:
+1. Humidity
+2. Sunshine Duration
+3. Hour-by-hour rainfall data 
+4. Sunrise and Sunset time 
+5. Hourly Temperature spikes/drops
+
