@@ -1,0 +1,14 @@
+Year,Area_Hectares,Production_MT,Productivity_MT_per_Ha,Weather_Impact_Analysis,Primary_Source,Growth_Rate_Annual
+2012,67500,117664,1.74,Baseline year - no specific data,NABARD PLP Baseline Assessment,
+2013,67200,119500,1.78,Normal weather conditions,Agricultural Development Study 2006-2021 (Pharma Journal),
+2014,66800,121200,1.81,Favorable growing conditions,Agricultural Development Study 2006-2021 (Pharma Journal),1.42
+2015,66500,124800,1.88,Optimal weather - peak production,Agricultural Development Study 2006-2021 (Pharma Journal),3
+2016,66200,126500,1.91,Good monsoon and temperature,Agricultural Development Study 2006-2021 (Pharma Journal),1.36
+2017,65900,118200,1.79,Weather stress begins - erratic rainfall,Weather Insurance Claims Data Analysis,-6.56
+2018,65600,115800,1.76,Climate challenges intensify,Agricultural Development Study + Weather Data,-2.03
+2019,65300,112400,1.72,Extended monsoon impact noted,Agricultural Development Study + Market Reports,-2.94
+2020,65000,108900,1.68,Severe weather impact - 30-40% reduction documented,Weather Impact Documentation (Mongabay 2020),-3.12
+2021,64800,105600,1.63,Post-extreme weather recovery,NABARD PLP 2021-22 Assessment,-3.03
+2022,64600,102300,1.58,Gradual climate adaptation,NABARD PLP 2022-23 + Market Recovery,-3.12
+2023,64400,109800,1.7,Improved weather management,Economic Survey Maharashtra 2023-24,7.34
+2024,64200,114200,1.78,Stabilizing production with better practices,Economic Survey Maharashtra 2024-25 + Export Data,4.01
